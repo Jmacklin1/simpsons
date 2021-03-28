@@ -1,0 +1,3 @@
+module Simpsons
+  VERSION = "0.1.0"
+end
